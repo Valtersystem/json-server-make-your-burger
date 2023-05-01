@@ -1,9 +1,93 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "ingredientes": {
+    "breads": [
+      {
+        "id": 1,
+        "tipo": "Italian bread"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Cheese"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesan and Oregano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "meats": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Topside"
+      },
+      {
+        "id": 3,
+        "tipo": "Rump"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomato"
+      },
+      {
+        "id": 4,
+        "tipo": "Purple onion"
+      },
+      {
+        "id": 4,
+        "tipo": "Cucumber"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "requested"
+    },
+    {
+      "id": 2,
+      "tipo": "production"
+    },
+    {
+      "id": 3,
+      "tipo": "finalized"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "burgers": [
+    {
+      "name": "Valter",
+      "meat": "Topside",
+      "bread": "Italian bread",
+      "options": [
+        "Salame",
+        "Cheddar"
+      ],
+      "status": "finalized",
+      "id": 1
+    }
+  ]
 }
