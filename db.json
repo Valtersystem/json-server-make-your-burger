@@ -80,58 +80,111 @@
   "burgers": [
     {
       "name": "Valter",
-      "meat": "Topside",
+      "meat": "Maminha",
       "bread": "Italian bread",
       "options": [
-        "Salame",
-        "Cheddar"
+        "Bacon",
+        "Tomato",
+        "Cucumber"
       ],
-      "status": "finalized",
+      "status": "production",
       "id": 1
-    }
-     {
-      "name": "Valter Santos",
-      "meat": "Topside",
-      "bread": "Italian bread",
+    },
+    {
+      "name": "Valter santos",
+      "meat": "Rump",
+      "bread": "Parmesan and Oregano",
       "options": [
+        "Bacon",
         "Salame",
-        "Cheddar"
+        "Tomato",
+        "Cucumber"
       ],
       "status": "finalized",
       "id": 2
-    }
- {
-      "name": "Valter",
-      "meat": "Topside",
-      "bread": "Italian bread",
+    },
+    {
+      "name": "Fabricio Santos",
+      "meat": "Rump",
+      "bread": "3 Cheese",
       "options": [
+        "Bacon",
         "Salame",
-        "Cheddar"
+        "Purple onion",
+        "Cucumber",
+        "Tomato"
       ],
-      "status": "finalized",
+      "status": "requested",
       "id": 3
-    }
- {
-      "name": "Valter",
-      "meat": "Topside",
-      "bread": "Italian bread",
+    },
+    {
+      "name": "Jovana Tele",
+      "meat": "Maminha",
+      "bread": "Integral",
       "options": [
+        "Bacon",
         "Salame",
-        "Cheddar"
+        "Purple onion",
+        "Tomato"
       ],
-      "status": "finalized",
+      "status": "production",
       "id": 4
-    }
- {
-      "name": "Valter",
-      "meat": "Topside",
-      "bread": "Italian bread",
+    },
+    {
+      "name": "Wagner Santos",
+      "meat": "Rump",
+      "bread": "3 Cheese",
       "options": [
+        "Bacon",
         "Salame",
-        "Cheddar"
+        "Purple onion",
+        "Cucumber",
+        "Tomato"
       ],
-      "status": "finalized",
+      "status": "requested",
       "id": 5
+    },
+    {
+      "name": "Neto Santos",
+      "meat": "Rump",
+      "bread": "3 Cheese",
+      "options": [
+        "Bacon",
+        "Salame",
+        "Purple onion",
+        "Cucumber",
+        "Tomato"
+      ],
+      "status": "requested",
+      "id": 6
+    },
+    {
+      "name": "Marcia Santos",
+      "meat": "Rump",
+      "bread": "3 Cheese",
+      "options": [
+        "Bacon",
+        "Salame",
+        "Purple onion",
+        "Cucumber",
+        "Tomato"
+      ],
+      "status": "requested",
+      "id": 7
+    },
+    {
+      "name": "Santos",
+      "meat": "Rump",
+      "bread": "3 Cheese",
+      "options": [
+        "Bacon",
+        "Salame",
+        "Purple onion",
+        "Cucumber",
+        "Tomato"
+      ],
+      "status": "requested",
+      "id": 8
     }
   ]
 }
